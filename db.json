@@ -1,0 +1,23 @@
+{
+    "Shonen": [
+        {"id": 1, "name": "Blue Lock", "Volume": 1},
+        {"id": 2, "name": "Blue Lock", "Volume": 2},
+        {"id": 3, "name": "Blue Lock", "Volume": 3},
+        {"id": 4, "name": "Blue Lock", "Volume": 4},
+        {"id": 5, "name": "Blue Lock", "Volume": 5}
+    ],
+    "Shojo": [
+        {"id": 6, "name": "Fushigi Yuugi", "Volume": 1},
+        {"id": 7, "name": "Fushigi Yuugi", "Volume": 2},
+        {"id": 8, "name": "Fushigi Yuugi", "Volume": 3},
+        {"id": 9, "name": "Fushigi Yuugi", "Volume": 4},
+        {"id": 10, "name": "Fushigi Yuugi", "Volume": 5}
+    ],
+    "KodomoMuke":[
+        {"id": 11, "name": "Doraemon", "Volume": 1},
+        {"id": 12, "name": "Doraemon", "Volume": 2},
+        {"id": 13, "name": "Doraemon", "Volume": 3},
+        {"id": 14, "name": "Doraemon", "Volume": 4},
+        {"id": 15, "name": "Doraemon", "Volume": 5}
+    ]
+}
