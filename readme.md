@@ -12,6 +12,8 @@ Introduction of pytest fixtures.
 
 Knowledge of status code family.
 
+Creating of your API documentation into myjsonserver (see the link listed below in References).
+
 # SetUp
 
 Python 3.5 and higher
@@ -24,7 +26,7 @@ Requests [Install](https://requests.readthedocs.io)
 
 Manga shelf is a API testing project composed of a collection of mangas ordened by categories: for young -> most common themes (Shonen) | for girls (Shojo) | for kids (KodomoMuke). Whenever the shelf owner is visiting their pretty and charming manga corner, he could take a look for appreciation, or grab one and left it at headboard and after, put another manga in the same position which the previous one was. He can also includding new volumes for any collections. Or else, he maybe withraw one of those mangas and for some reason, cannot put back (giving for someone, by loss...). For this purpose, we have the tests wrote to validate the get, put, post and delete calls for the fake API.
 
-# Reference
+# References
 
 [jsonplaceholder API](https://jsonplaceholder.typicode.com/guide/)
 
