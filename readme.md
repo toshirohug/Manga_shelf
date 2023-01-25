@@ -12,7 +12,7 @@ Introduction of pytest fixtures.
 
 Knowledge of status code family.
 
-Creating of your API documentation into myjsonserver (see the link listed below in References).
+Creating of your API documentation into myjsonserver (see the link listed below in References) -> For this project was generated the entire API [documentation](https://my-json-server.typicode.com/toshirohug/Manga_shelf/).
 
 # SetUp
 
